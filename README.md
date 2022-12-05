@@ -12,9 +12,9 @@ pip install streamlit
 ## Usage
 
 ```bash
-cd path_to_delpha_repository
+cd path_to_webapp
 ```
 
 ```bash
-streamlit run webapp\app.py
+streamlit run app.py
 ```
