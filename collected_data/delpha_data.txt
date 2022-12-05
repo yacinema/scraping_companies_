@@ -1,0 +1,7 @@
+,Name,Effectif,Site Web,Revenue,Adresse,LinkedIn,Longitude,Latitude
+0,Microsoft,221000,https://www.microsoft.com,1983000," One Microsoft Way Redmond, Washington, U.S.",https://www.linkedin.com/company/microsoft/,-122.1779501,47.6188947
+1,Salesforce,73542,https://www.salesforce.com,2649000," Salesforce Tower San Francisco, California, U.S.",https://www.linkedin.com/company/salesforce/,-60.6850756,-33.0291475
+2,BNP Paribas,190000,https://www.group.bnpparibas,480480," Boulevard des Italiens, Paris, France ",https://www.linkedin.com/company/bnp-paribas/,2.3394026,48.8718899
+3,HSBC,219697,https://www.www.hsbc.com,49552000," 8 Canada Square London, England, UK",https://www.linkedin.com/company/hsbc/,-0.01744041703082449,51.50543155
+4,Dataiku,1000,https://www.dataiku.com,150," New York City, United States ",https://www.linkedin.com/company/dataiku/,-74.0060152,40.7127281
+5,Bouygues Construction,124600,https://www.,3909360," 8th arrondissement, Paris, France ",https://www.linkedin.com/company/bouygues-construction/,2.31765,48.8774799
